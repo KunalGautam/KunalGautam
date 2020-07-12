@@ -1,4 +1,4 @@
-![Header Image](header.jpg) 
+![Header Image](./header.jpg) 
 
 ## Namaste there 👋, I'm Kunal Gautam.
 
