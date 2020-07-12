@@ -8,7 +8,7 @@ With over 10 Years of experience in developing Websites, I have learnt a lot abo
 
 I'm a supporter of using quality education available to everyone. According to me, education should be available to everyone at an affordable cost. As of now, I'm working to chalk-out feasibility for creating quality content for education, by analysing options and cost-effectiveness. I'm learning about integrating microcontroller, frameworks and algorithms, and how to reap out the maximum out of it for creating quality content.
 
-Feel free to contact me at:
+I'm available at:
 
 - [Twitter](http://twitter.com/KunalGautam)
 - [Reddit](https://www.reddit.com/user/kunal-gautam)
