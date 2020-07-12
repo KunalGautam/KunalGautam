@@ -13,4 +13,5 @@ Feel free to contact me at:
 - [Twitter](http://twitter.com/KunalGautam)
 - [Reddit](https://www.reddit.com/user/kunal-gautam)
 - [Website](https://ikunal.in)
+- [Personal Blog](https://blog.ikunal.in)
 - [AbhashTech Github](https://github.com/AbhashTech/)
