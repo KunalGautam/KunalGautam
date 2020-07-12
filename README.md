@@ -1,4 +1,4 @@
-![Header Image](./header.jpg) 
+![Header Image](https://github.com/KunalGautam/KunalGautam/blob/master/header.jpg?raw=true) 
 
 ## Namaste there 👋, I'm Kunal Gautam.
 
